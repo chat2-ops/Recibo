@@ -1,0 +1,1 @@
+Atualização para remover a faixa amarela. Substitua index.html e sw.js pelos arquivos deste pacote na pasta principal do projeto; mantenha manifest, ícones e demais arquivos existentes. A alteração do cache para v3 força a atualização do app instalado. Os dados continuam sendo sincronizados com o Supabase conforme a configuração já existente.
