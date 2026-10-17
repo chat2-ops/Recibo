@@ -1,0 +1,7 @@
+VendaFácil — visual das prévias + tema claro/escuro
+
+Este pacote aplica ao app o layout claro aprovado nas prévias: navegação no cabeçalho, cartões de resumo, atalhos, telas de estoque e contratos com busca e ações. Também inclui o botão de modo escuro, mantendo a escolha salva neste aparelho.
+
+Para atualizar o GitHub Pages, substitua index.html e sw.js pelos arquivos deste pacote na pasta principal do projeto e publique/commit as alterações. Mantenha manifest.webmanifest, ícones e os demais arquivos já existentes. O cache foi atualizado para v8 para o navegador buscar a versão nova.
+
+Os dados, vendas, aluguéis, pagamentos, edição de aluguel e sincronização Supabase foram mantidos. A exportação CSV da tabela de estoque inclui apenas os dados dos produtos.
