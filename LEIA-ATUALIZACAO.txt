@@ -1,5 +1,0 @@
-Atualização VendaFácil: edição de aluguel, aluguéis atrasados no topo em sequência de vencimento e remoção da faixa amarela.
-
-Substitua index.html e sw.js pelos arquivos deste pacote na pasta principal do projeto GitHub. Mantenha manifest.webmanifest, ícones e os demais arquivos que já possui. Depois publique/commit as alterações. O número do cache foi atualizado para v6 para o navegador buscar a nova versão.
-
-A edição de aluguel só fica disponível antes de registrar pagamentos e enquanto o aluguel estiver ativo. Ao trocar de aparelho, o estoque do anterior é devolvido e o novo aparelho sai do estoque. Na aba Aluguéis, os contratos atrasados aparecem primeiro, do vencimento mais antigo para o mais recente.
